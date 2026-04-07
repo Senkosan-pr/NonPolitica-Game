@@ -1,0 +1,28 @@
+{
+    "VVP": 1,
+    "industry": 3,
+    "infrast": 0,
+    "pollution": 1,
+    "population": 100000,
+    "stability": 0.4,
+    "trust": 0.75,
+    "food": 1000000,
+    "drink": 500000,
+    "convoys": 10,
+    "heli": 1,
+    "truck": 50,
+    "weapon": 250,
+    "ammo": 10000,
+    "heav_ammo": 50,
+    "parlam": 15,
+    "money": 10000000000,
+    "step": 0,
+    "game_over": false,
+    "pollution_flags": {
+        "pollution_20_applied": false,
+        "pollution_40_applied": false,
+        "pollution_60_applied": false,
+        "pollution_80_applied": false
+    },
+    "save_date": "2026-04-07 19:22:56"
+}
